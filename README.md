@@ -213,3 +213,7 @@ A `.pbix` file is technically a compressed package container (containing `DataMo
 - [x] Single-page responsive layout matching assignment reference.
 - [x] `.pbix` file saved and verified (`AnushkaBendre.pbix`).
 - [x] High-resolution dashboard screenshot ready for submission.
+
+---
+**Author:** Arjya Dey
+
