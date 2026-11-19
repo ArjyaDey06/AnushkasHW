@@ -1,8 +1,7 @@
 # Financial Consumer Complaints Dashboard
 **Program & Course:** MBA, Business Intelligence and Data Visualization (Semester III)  
 **Project:** Financial Consumer Complaints Interactive Dashboard  
-**Tool Used:** Microsoft Power BI Desktop  
-**Author:** Anushka Bendre  
+**Tool Used:** Microsoft Power BI Desktop   
 **Primary Deliverables:** `AnushkaBendre.pbix` (Power BI Report), Final Dashboard Screenshot
 
 ---
